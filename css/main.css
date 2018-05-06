@@ -1,0 +1,24 @@
+
+/**** GRID ****/
+.full-width {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.half-width {
+  width: 600px;
+  /**float:left??**/
+}
+
+header h3 {
+
+}
+
+nav {
+  float: right;
+  padding:
+}
+
+nav ul li {
+  display: inline-block;
+}
